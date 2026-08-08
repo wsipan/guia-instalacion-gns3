@@ -27,7 +27,7 @@ Los archivos descargados deben verse de la siguiente manera:
 </p>
 
 > [!NOTE]
-> Si aún no tienes VMware instalado consulta la siguiente guía.
+> Si aún no tienes VMware instalado consulta la siguiente [guía](vmware/README.md).
 
 ## Instalación de GNS3
 
